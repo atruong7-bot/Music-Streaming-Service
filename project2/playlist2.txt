@@ -1,0 +1,3 @@
+stroustrup,0,4,5
+gosling,2,2,3
+rossum,5,5,5
